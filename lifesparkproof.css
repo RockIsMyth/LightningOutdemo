@@ -16,8 +16,8 @@ body {
 
 .container {
   position: relative;
-  width: 350px;
-  height: 500px;
+  width: 40vw;
+  height: 90vh;
   border-radius: 20px;
   padding: 40px;
   box-sizing: border-box;
@@ -91,8 +91,8 @@ a {
   bottom: 4px;
   right: 4px;
   text-decoration: none;
-  color: black;
-  background: yellow;
+  color: white;
+  background: black;
   border-radius: 10px;
   padding: 2px;
 }
